@@ -4,10 +4,10 @@
 
 The best talk I've seen on an introduction to the differences between OOP and FP seen from a TDD perspective.
 
-## [Level 1: Functional Libraries](https://lodash.com/docs/4.17.4)
+## Level 1: Never Write A Loop Again
 
-[Javascript - Lodash](https://lodash.com/docs/4.17.4)
-[Java 8 Collection Stream Interface](https://docs.oracle.com/javase/tutorial/collections/streams/)
+* [Javascript - Lodash](https://lodash.com/docs/4.17.4)
+* [Java 8 Collection Stream Interface](https://docs.oracle.com/javase/tutorial/collections/streams/)
 
 ## [Level 2: Simple Made Easy by Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy)
 
